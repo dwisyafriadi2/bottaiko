@@ -6,11 +6,13 @@
 `` npm install
 `` node iziswapAutomation.js
 
-Dont private key save on 
+Dont forge to change private key save on 
 iziswapAutomation.js line 16
-const privateKey = ''; // Replace with your private key
+
+const privateKey = 'FILL YOUR PRIVATE KEY'; // Replace with your private key
 
 ## For more bot join telegram
-(Join Telegram)[https://t.me/dasarpemulung]
-(Channel Youtube)[[https://https://www.youtube.com/@dasarpemulung]
+- (Join Telegram)[https://t.me/dasarpemulung]
+- (Channel Youtube)[[https://https://www.youtube.com/@dasarpemulung]
 
+# Do Your Own Research (DYOR)
